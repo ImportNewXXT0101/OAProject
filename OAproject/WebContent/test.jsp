@@ -6,8 +6,11 @@
 	<body>
 		
 		Strust2添加成功！<br/>
+		
+		<%--
 		Strust2与Spring整合成功！<br/>
 		Strust2与Spring与Hibernate整合成功！<br/>
+		--%>
 		
 	
 	</body>
